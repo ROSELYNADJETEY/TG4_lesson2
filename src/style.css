@@ -1,3 +1,55 @@
 .Logo-and-nav{
     display: flex;
 }
+
+.logo{
+   width: 100px;
+   height: 100px;
+}
+
+
+/* typography */
+h1{
+    font-family: monospace;
+    font-size: 60px;
+}
+
+.paragraph, .paragraph{
+    font-weight: bolder;
+    font-size: 20px;
+    text-shadow: 3px 0px 5px ;
+    letter-spacing: normal;
+    line-height: 50px;
+    text-align: justify;
+    color: rgb(147, 111, 67);
+    background-color: rgb(18, 18, 172);
+
+}
+
+#paragraph{
+    opacity: 0.8;
+    /* background-color: blueviolet; */
+}
+
+header.hero-div{
+    background-image: url('../images/salon.webp');
+    width: 1000vw;
+    height: 200px;
+}
+/* hero-div{
+
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
